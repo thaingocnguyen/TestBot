@@ -1,0 +1,13 @@
+/Users/thaingoc/Documents/TestBot/bin/Debug/netcoreapp2.0/appsettings.json
+/Users/thaingoc/Documents/TestBot/bin/Debug/netcoreapp2.0/empty.bot
+/Users/thaingoc/Documents/TestBot/bin/Debug/netcoreapp2.0/EmptyBot.deps.json
+/Users/thaingoc/Documents/TestBot/bin/Debug/netcoreapp2.0/EmptyBot.runtimeconfig.json
+/Users/thaingoc/Documents/TestBot/bin/Debug/netcoreapp2.0/EmptyBot.runtimeconfig.dev.json
+/Users/thaingoc/Documents/TestBot/bin/Debug/netcoreapp2.0/EmptyBot.dll
+/Users/thaingoc/Documents/TestBot/bin/Debug/netcoreapp2.0/EmptyBot.pdb
+/Users/thaingoc/Documents/TestBot/obj/Debug/netcoreapp2.0/EmptyBot.csprojAssemblyReference.cache
+/Users/thaingoc/Documents/TestBot/obj/Debug/netcoreapp2.0/EmptyBot.csproj.CoreCompileInputs.cache
+/Users/thaingoc/Documents/TestBot/obj/Debug/netcoreapp2.0/EmptyBot.AssemblyInfoInputs.cache
+/Users/thaingoc/Documents/TestBot/obj/Debug/netcoreapp2.0/EmptyBot.AssemblyInfo.cs
+/Users/thaingoc/Documents/TestBot/obj/Debug/netcoreapp2.0/EmptyBot.dll
+/Users/thaingoc/Documents/TestBot/obj/Debug/netcoreapp2.0/EmptyBot.pdb
