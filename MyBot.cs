@@ -1,6 +1,8 @@
 ﻿// Copyright (c) Microsoft Corporation. All rights reserved.
 // Licensed under the MIT License.
-
+using System;
+using System.Collections.Generic;
+//using Microsoft.Bot.Builder.Core.Extensions;
 using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.Bot.Builder;
@@ -45,8 +47,26 @@ namespace Microsoft.BotBuilderSamples
             if (turnContext.Activity.Type == ActivityTypes.Message)
             {
                 // Echo back to the user whatever they typed.             
-                await turnContext.SendActivityAsync("Hello World", cancellationToken: cancellationToken);
+                await turnContext.SendActivityAsync($"It's Oswald the helper!");
+                //Currently don't use.
+                var responseMessage = turnContext.Activity.Text;
+                await SendSuggestedActionsAsync(turnContext, cancellationToken);
             }
+        }
+
+        private static async Task SendSuggestedActionsAsync(ITurnContext turnContext, CancellationToken cancellationToken)
+        {
+            var initialChoice = turnContext.Activity.CreateReply("What do you need help with?");
+            initialChoice.SuggestedActions = new SuggestedActions()
+            {
+                Actions = new List<CardAction>()
+                {
+                    new CardAction() { Title = "Microwaves", Type = ActionTypes.ImBack, Value = "Microwaves" },
+                    new CardAction() { Title = "Study Areas", Type = ActionTypes.ImBack, Value = "Study Areas" },
+                    new CardAction() { Title = "Power Outlets", Type = ActionTypes.ImBack, Value = "Power Outlets" },
+                },
+            };
+            await turnContext.SendActivityAsync(initialChoice, cancellationToken);
         }
     }
 }
