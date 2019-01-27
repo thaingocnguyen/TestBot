@@ -1,5 +1,6 @@
 using System;
 using Microsoft.Bot.Builder;
+using Microsoft.Bot.Builder.DialogState;
 
 namespace Microsoft.BotBuilderSamples
 {
