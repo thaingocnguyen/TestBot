@@ -1,0 +1,12 @@
+/Users/thaingoc/Documents/BotFramework-Samples/SDKV4-Samples/dotnet_core/ComplexDialogBot/bin/Debug/netcoreapp2.0/complex-dialog.bot
+/Users/thaingoc/Documents/BotFramework-Samples/SDKV4-Samples/dotnet_core/ComplexDialogBot/bin/Debug/netcoreapp2.0/ComplexDialogBot.deps.json
+/Users/thaingoc/Documents/BotFramework-Samples/SDKV4-Samples/dotnet_core/ComplexDialogBot/bin/Debug/netcoreapp2.0/ComplexDialogBot.runtimeconfig.json
+/Users/thaingoc/Documents/BotFramework-Samples/SDKV4-Samples/dotnet_core/ComplexDialogBot/bin/Debug/netcoreapp2.0/ComplexDialogBot.runtimeconfig.dev.json
+/Users/thaingoc/Documents/BotFramework-Samples/SDKV4-Samples/dotnet_core/ComplexDialogBot/bin/Debug/netcoreapp2.0/ComplexDialogBot.dll
+/Users/thaingoc/Documents/BotFramework-Samples/SDKV4-Samples/dotnet_core/ComplexDialogBot/bin/Debug/netcoreapp2.0/ComplexDialogBot.pdb
+/Users/thaingoc/Documents/BotFramework-Samples/SDKV4-Samples/dotnet_core/ComplexDialogBot/obj/Debug/netcoreapp2.0/ComplexDialogBot.csprojAssemblyReference.cache
+/Users/thaingoc/Documents/BotFramework-Samples/SDKV4-Samples/dotnet_core/ComplexDialogBot/obj/Debug/netcoreapp2.0/ComplexDialogBot.csproj.CoreCompileInputs.cache
+/Users/thaingoc/Documents/BotFramework-Samples/SDKV4-Samples/dotnet_core/ComplexDialogBot/obj/Debug/netcoreapp2.0/ComplexDialogBot.AssemblyInfoInputs.cache
+/Users/thaingoc/Documents/BotFramework-Samples/SDKV4-Samples/dotnet_core/ComplexDialogBot/obj/Debug/netcoreapp2.0/ComplexDialogBot.AssemblyInfo.cs
+/Users/thaingoc/Documents/BotFramework-Samples/SDKV4-Samples/dotnet_core/ComplexDialogBot/obj/Debug/netcoreapp2.0/ComplexDialogBot.dll
+/Users/thaingoc/Documents/BotFramework-Samples/SDKV4-Samples/dotnet_core/ComplexDialogBot/obj/Debug/netcoreapp2.0/ComplexDialogBot.pdb

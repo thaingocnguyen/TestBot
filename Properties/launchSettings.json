@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "EmptyBot": {
+    "_5.MultiTurn_Prompts_Bot": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
